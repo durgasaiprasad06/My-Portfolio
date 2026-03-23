@@ -1,0 +1,600 @@
+{
+  "personal": {
+    "name": "Tunga Durga Sai Prasad",
+    "nickname": "Sai",
+    "title": "Aspiring Data Analyst",
+    "bio": "I am a motivated student aspiring to become a Data Analyst. I enjoy working with data and developing strong problem-solving skills. I am focused on building practical knowledge in data analytics and continuously improving my skills for a successful career in this field.",
+    "bioExtended": "As a motivated student aspiring to become a Data Analyst, I am dedicated to working with data and developing strong problem-solving skills. I am focused on building practical knowledge in data analytics and continuously improving my skills for a successful career in this field.",
+    "email": "durgasaiprasad091@gmail.com",
+    "phone": "+91 7893914189",
+    "github": "https://github.com/durgasaiprasad06/",
+    "linkedin": "https://www.linkedin.com/in/durga-sai-prasad-tunga-5b6727293/",
+    "resume": "/Durga_Sai_Prasad_CV.pdf",
+    "avatar": "/sai_profile.jpeg"
+  },
+  "about": {
+    "journey": "My interest in data analytics began with curiosity about how organizations use data to understand trends, predict outcomes, and make better decisions. During my studies, I started exploring tools such as Python, SQL, Excel, and Power BI to analyze datasets and uncover meaningful insights.\n\nI enjoy working with real-world data and transforming raw information into valuable insights through data cleaning, analysis, and visualization. This process allows me to turn complex datasets into clear and understandable results that support data-driven decision making.",
+    "approach": "My approach to data analysis begins with understanding the business or real-world problem behind the data. I focus on exploring datasets carefully, identifying patterns, and validating insights using structured analysis techniques.\n\nI typically work through the full analytical workflow—data cleaning, exploratory analysis, querying with SQL, and visualizing insights through dashboards or charts. My goal is always to transform raw data into information that is easy to understand and useful for decision-making.",
+    "quickFacts": [
+      "🎓 B.Tech CSE Student at Lovely Professional University, exploring the world of data and technology.",
+      "📊 Aspiring Data Analyst who enjoys turning messy datasets into meaningful insights.",
+      "🧠 Comfortable working with Python, SQL, Excel, Power BI, and Tableau to analyze and visualize data.",
+      "🔎 Currently building projects that explore data trends, patterns, and business insights.",
+      "🚀 Always curious about how data can answer questions we didn’t even know to ask."
+    ],
+    "notCoding": [
+      "🎧 Probably listening to music while thinking about my next project idea.",
+      "🌐 Exploring new tech tools, datasets, or random analytics case studies on the internet.",
+      "📊 Looking at interesting dashboards and wondering “how did they visualize that?”",
+      "☕ Occasionally taking a break… but still thinking about data problems in the background."
+    ]
+  },
+  "education": [
+    {
+      "id": "1",
+      "degree": "Bachelor of Technology - Computer Science and Engineering",
+      "institution": "Lovely Professional University",
+      "location": "Phagwara, Punjab",
+      "duration": "Since Aug 2023",
+      "metricLabel": "CGPA",
+      "metricValue": "7.18"
+    },
+    {
+      "id": "2",
+      "degree": "Intermediate - MPC",
+      "institution": "Narayana Junior College",
+      "location": "Bhimavaram, Andhra Pradesh",
+      "duration": "Jun 2021 – Mar 2023",
+      "metricLabel": "Percentage",
+      "metricValue": "83.8%"
+    },
+    {
+      "id": "3",
+      "degree": "Secondary School Education",
+      "institution": "SJN ZPHS",
+      "location": "Pedanindrakolanu, Andhra Pradesh",
+      "duration": "Jun 2020 - Apr 2021",
+      "metricLabel": "Percentage",
+      "metricValue": "70%"
+    }
+  ],
+  "skills": {
+    "languages": [
+      {
+        "name": "Python",
+        "icon": "devicon-python-plain",
+        "level": 70
+      },
+      {
+        "name": "SQL",
+        "icon": "devicon-mysql-plain",
+        "level": 65
+      },
+      {
+        "name": "C++",
+        "icon": "devicon-cplusplus-plain",
+        "level": 70
+      },
+      {
+        "name": "Java",
+        "icon": "devicon-java-plain",
+        "level": 75
+      },
+      {
+        "name": "C",
+        "icon": "devicon-c-plain",
+        "level": 75
+      },
+      {
+        "name": "JavaScript",
+        "icon": "devicon-javascript-plain",
+        "level": 65
+      },
+      {
+        "name": "CSS",
+        "icon": "devicon-css3-plain",
+        "level": 80
+      },
+      {
+        "name": "HTML",
+        "icon": "devicon-html5-plain",
+        "level": 80
+      }
+    ],
+    "tools": [
+      {
+        "name": "Excel",
+        "icon": "lucide:FileSpreadsheet",
+        "level": 95
+      },
+      {
+        "name": "Power BI",
+        "icon": "lucide:BarChart3",
+        "level": 95
+      },
+      {
+        "name": "Tableau",
+        "icon": "lucide:PieChart",
+        "level": 85
+      },
+      {
+        "name": "Git",
+        "icon": "devicon-git-plain",
+        "level": 70
+      },
+      {
+        "name": "GitHub",
+        "icon": "lucide:Github",
+        "level": 70
+      },
+      {
+        "name": "VS Code",
+        "icon": "devicon-vscode-plain",
+        "level": 90
+      },
+      {
+        "name": "MySQL",
+        "icon": "devicon-mysql-plain",
+        "level": 70
+      },
+      {
+        "name": "MongoDB",
+        "icon": "devicon-mongodb-plain",
+        "level": 75
+      }
+    ],
+    "libraries": [
+      {
+        "name": "Pandas",
+        "icon": "devicon-pandas-plain",
+        "level": 80
+      },
+      {
+        "name": "NumPy",
+        "icon": "devicon-numpy-plain",
+        "level": 80
+      },
+      {
+        "name": "Matplotlib",
+        "icon": "lucide:LineChart",
+        "level": 82
+      },
+      {
+        "name": "Seaborn",
+        "icon": "lucide:AreaChart",
+        "level": 76
+      },
+      {
+        "name": "Scikit-learn",
+        "icon": "devicon-python-plain",
+        "level": 80
+      }
+    ]
+  },
+  "training": [
+    {
+      "id": "t1",
+      "title": "C++ Programming: OOPs and DSA",
+      "provider": "CSE PATHSHALA",
+      "duration": "Jun 2025 – Jul 2025",
+      "link": "https://drive.google.com/file/d/1Akef0Nhr_-kw2T87_a8TCbMJo37QQIFd/",
+      "image": "/assets/certs/cert_cse.png",
+      "description": "Intensive 35+ hours live summer training on core DSA concepts and Object-Oriented Programming principles.",
+      "modalContent": "Comprehensive 35+ hours live summer training on C++, Object-Oriented Programming, and Data Structures & Algorithms. Focused on code optimization and architectural principles."
+    }
+  ],
+  "internships": [
+    {
+      "id": "i1",
+      "title": "Microsoft Power BI - For Business Applications",
+      "company": "Microsoft Elevate (AICTE Initiative)",
+      "duration": "Dec 2025 - Jan 2026",
+      "link": "https://drive.google.com/file/d/1YoDXQbxV9vL-rQpba066SrPtjWgUu7aN/view?usp=sharing",
+      "image": "/assets/certs/cert_internship.png",
+      "description": "4-week intensive internship focused on Power BI implementation for business intelligence.",
+      "modalContent": "Completed a professional internship under the Emerging Technologies initiative. Developed skills in data modeling, DAX, and interactive dashboard creation using Power BI to solve business analytics challenges. In collaboration with AICTE."
+    }
+  ],
+  "projects": [
+    {
+      "id": "p1",
+      "title": "Marine Benthic Abundance Dashboard",
+      "date": "2025",
+      "tags": [
+        "Power BI",
+        "Dashboard",
+        "Data Visualization",
+        "Environmental Data"
+      ],
+      "accent": true,
+      "description": "Interactive dashboard visualizing marine biological abundance data and environmental correlations for scientific observation.",
+      "githubLink": "https://github.com/durgasaiprasad06/Marine-_Benthic_Biodiversity_-_Abundance_Analysis_Dashboard/",
+      "demoLink": "",
+      "image": "/assets/projects/Marine Benthic Abundance Dashboard.png",
+      "snapshots": [
+        {
+          "title": "Study Area & Geographic Metadata",
+          "description": "This page provides the spatial context of the dataset:\n\nFocus: Geographic locations including Elliott Bay, Puget Sound, and surrounding marine environments.\n\nKey Attributes: Locator, Site, Latitude, and Longitude.\n\nPurpose: Defines the exact physical coordinates where samples were collected, enabling precise mapping and spatial analysis of marine life distribution.",
+          "image": "/assets/projects/snapshots/Marine Benthic Abundance Dashboard/Screenshot 2026-03-22 183943.png"
+        },
+        {
+          "title": "Temporal & Sampling Parameters",
+          "description": "This page details the methodology and timeline of the data collection:\n\nTimeframe: Long-term monitoring data spanning from 1988 to 2023.\n\nEnvironmental Factors: Collection Date, Approx Depth (m), and Sample Type (e.g., Routine vs. Outfall).\n\nSignificance: Tracking depth and time is crucial for understanding how seasonal changes and water depth influence marine biodiversity.",
+          "image": "/assets/projects/snapshots/Marine Benthic Abundance Dashboard/Screenshot 2026-03-22 184011.png"
+        },
+        {
+          "title": "Taxonomic Classification",
+          "description": "This section focuses on the biological identification of the organisms:\n\nBiological Hierarchy: Detailed classification including Phylum, Class, Order, Family, Genus, and Species.\n\nStandardization: Uses Scientific Name Accepted and global identifiers like AphiaID (WoRMS) and TSN for taxonomic accuracy.\n\nInsight: Helps in identifying the specific types of marine invertebrates present in the ecosystem, such as Annelids, Mollusks, and Arthropods.",
+          "image": "/assets/projects/snapshots/Marine Benthic Abundance Dashboard/Screenshot 2026-03-22 184028.png"
+        },
+        {
+          "title": "Quantitative Abundance Data",
+          "description": "This is the core analytical component of the dataset:\n\nMetrics: Focuses on Abundance (the count of individuals) and Field Replicates.\n\nData Integrity: Includes Sample ID, Contract Lab details, and Taxon specific counts.\n\nApplication: This data is essential for calculating biodiversity indices and assessing the overall health of the benthic ecosystem over decades.",
+          "image": "/assets/projects/snapshots/Marine Benthic Abundance Dashboard/Screenshot 2026-03-22 184051.png"
+        }
+      ],
+      "modalContent": "Created dynamic reports in Power BI to track species diversity and abundance trends across temporal and spatial dimensions. Integrated complex environmental datasets for holistic ecological analysis."
+    },
+    {
+      "id": "p2",
+      "title": "Amazon Sales Data Analysis",
+      "date": "Dec 2025 – Jan 2026",
+      "tags": [
+        "SQL",
+        "MySQL",
+        "Data Analysis"
+      ],
+      "accent": false,
+      "description": "Analyzed an Amazon sales dataset (~120K records) using SQL to explore sales trends, product categories, and buyer behavior.",
+      "githubLink": "https://github.com/durgasaiprasad06/amazon-sales-sql-analysis/",
+      "demoLink": "",
+      "image": "/assets/projects/Amazon Sales Data Analysis.png",
+      "snapshots": [
+        {
+          "title": "Database Schema & Raw Data Preview",
+          "description": "Overview: This section demonstrates the initial setup of the amazon_sales database and the structure of the amozon table.\n\nKey Actions: * Defined precise data types for 22 columns including Order ID, Date, and Amount.\n\nPerformed a LIMIT 10 query to verify data integrity and ensure all fields (like SKU, Category, and Fulfilment) loaded correctly.\n\nInsight: Establishing a clean schema is the foundation for accurate downstream analysis.",
+          "image": "/assets/projects/snapshots/Amazon Sales Data Analysis/1.png"
+        },
+        {
+          "title": "Category-wise Distribution",
+          "description": "Overview: An analysis of product performance across different categories (e.g., T-shirts, Shirts, Blouses).\n\nAnalysis: * Calculated Total Orders per category to identify the most popular product types.\n\nCalculated Total Revenue per category to see which products are the biggest financial contributors.\n\nInsight: Helps in inventory management by identifying high-demand categories versus high-value categories.",
+          "image": "/assets/projects/snapshots/Amazon Sales Data Analysis/2.png"
+        },
+        {
+          "title": "Geographical Sales Analysis (States & Cities)",
+          "description": "Overview: Identification of top-performing regions to understand market penetration.\n\nAnalysis: * Top 10 States by Revenue.\n\nTop 10 Cities by Revenue.\n\nInsight: Businesses can use this data to optimize logistics, target marketing campaigns, and prioritize regional distribution centers.",
+          "image": "/assets/projects/snapshots/Amazon Sales Data Analysis/Screenshot 2026-03-23 002445.png"
+        },
+        {
+          "title": "Operational Metrics (Status, B2B, & Fulfilment)",
+          "description": "Overview: This section focuses on the logistics and customer segments of the sales.\n\nAnalysis:\n\nOrder Status: Breaks down counts for Shipped, Cancelled, and Pending orders to monitor fulfillment health.\n\nB2B vs. B2C: Segregates business-to-business transactions from individual retail sales.\n\nFulfilment Method: Compares revenue generated through different fulfillment channels (e.g., Amazon vs. Merchant).\n\nInsight: Vital for identifying bottlenecks in the supply chain and understanding the customer base.",
+          "image": "/assets/projects/snapshots/Amazon Sales Data Analysis/Screenshot 2026-03-23 002458.png"
+        },
+        {
+          "title": "Inventory & Service Level Analysis",
+          "description": "Overview: Deep dive into specific product identifiers and shipping preferences.\n\nAnalysis:\n\nTop 10 SKUs: Identifies the specific products (Stock Keeping Units) that sold the most units.\n\nShip-Service-Level: Analyzes revenue based on shipping speeds (Expedited vs. Standard).\n\nInsight: Knowing the top SKUs helps prevent \"out-of-stock\" scenarios, while service-level data reveals if customers are willing to pay more for faster delivery.",
+          "image": "/assets/projects/snapshots/Amazon Sales Data Analysis/Screenshot 2026-03-23 002452.png"
+        }
+      ],
+      "modalContent": "Developed and executed 15+ analytical queries for aggregation, grouping, and business analysis to evaluate order status and fulfillment methods."
+    },
+    {
+      "id": "p3",
+      "title": "MakeMyTrip Booking Intelligence",
+      "date": "Feb 2025 – Apr 2025",
+      "tags": [
+        "Excel",
+        "Dashboard",
+        "Data Visualization"
+      ],
+      "accent": false,
+      "description": "Developed an Excel analytics dashboard for detailed analysis of booking trends, discount usage, and reservation outcomes.",
+      "githubLink": "https://github.com/durgasaiprasad06/MakeMyTrip_Customer_and_Booking_Trends_Dashboard/",
+      "demoLink": "",
+      "image": "/assets/projects/MakeMyTrip Booking Intelligence.png",
+      "snapshots": [
+        {
+          "title": "Data Aggregation & Pivot Table Analysis",
+          "description": "Overview: The backend analytical layer of the project, showcasing the structured data processing that powers the dashboard.\n\nTechnical Components:\n\nPivot Table Summaries: Detailed breakdown of booking counts by Destination, Hotel Preference, and State.\n\nQuantitative Metrics: Calculation of \"Average Trip Duration\" and \"Average Ticket Price\" using complex data grouping.\n\nData Validation: Ensuring the \"Grand Total\" of 10,000 records is consistent across different analytical lenses (Status, Destination, State).\n\nInsight: Demonstrates the ability to transform raw, messy datasets into structured summaries, ensuring data accuracy and integrity before visualization.",
+          "image": "/assets/projects/snapshots/MakeMyTrip Booking Intelligence/Screenshot 2026-03-22 185609.png"
+        },
+        {
+          "title": "Advanced Interactive Dashboard (Visual Insights)",
+          "description": "Overview: A comprehensive, high-fidelity dashboard designed to visualize key business metrics for a travel booking platform.\n\nKey Visualizations:\n\nGeographic Heatmap: A state-wise booking count summary across India, identifying high-demand regions like Uttar Pradesh and Chhattisgarh.\n\nMarket Segmentation: Analysis of \"Most Preferred Hotels\" and \"Most Booked Holiday Destinations\" (with Manali and Leh leading the charts).\n\nFinancial & Operational Metrics: A multi-series bar chart comparing average ticket prices by transport mode (Bus, Car Rental, Flight, Train) across various destinations.\n\nBehavioral Trends: Monitoring \"Promo Code Usage\" (with WELCOME5 being the most popular) and \"Overall Booking Status\" (Confirmed vs. Pending vs. Cancelled).\n\nInsight: This dashboard enables stakeholders to quickly identify top-performing destinations and optimize promotional strategies based on real-time booking data.",
+          "image": "/assets/projects/snapshots/MakeMyTrip Booking Intelligence/Screenshot 2026-03-22 234519.png"
+        }
+      ],
+      "modalContent": "Cleaned and structured raw booking data, built pivot tables and interactive charts with slicers to highlight demand hotspots."
+    },
+    {
+      "id": "p4",
+      "title": "Public Opinion Tracker Chatbot",
+      "date": "Feb 2025 – Apr 2025",
+      "tags": [
+        "FrontEnd",
+        "BackEnd",
+        "AI/LLM"
+      ],
+      "accent": false,
+      "description": "Built a full-stack AI chatbot platform providing real-time conversational responses through a responsive web interface.",
+      "githubLink": "https://github.com/durgasaiprasad06/Public_Opinion_Tracker/",
+      "demoLink": "https://public-opinion-tracker-chatbot.netlify.app/",
+      "image": "/assets/projects/Public Opinion Tracker Chatbot.png",
+      "modalContent": "Implemented AI model integration, API communication, and real-time messaging for a production-ready chatbot experience."
+    },
+    {
+      "id": "p5",
+      "title": "Global Landslide Predictive Analytics",
+      "date": "2025",
+      "tags": [
+        "Python",
+        "Machine Learning"
+      ],
+      "accent": false,
+      "description": "Analyzed NASA's Global Landslide Catalog to predict fatalities and cluster geographic risk patterns using ML algorithms.",
+      "githubLink": "https://github.com/durgasaiprasad06/Global-Landslide-Analysis-Fatality-Prediction/tree/main",
+      "image": "/assets/projects/Global Landslide Predictive Analytics.png",
+      "snapshots": [
+        {
+          "title": "Exploratory Data Analysis (EDA) & Geospatial Mapping",
+          "description": "Overview: Initial exploration of the NASA Global Landslide Catalog to identify high-risk zones and casualty trends.Key Visualizations:Geographic Distribution: A scatter plot using Latitude and Longitude to map landslide hotspots globally, with color intensity representing fatality counts.Statistical Correlations: A heatmap analyzing the relationship between coordinates, fatalities, and injuries.Country-wise Impact: A bar chart highlighting the top 10 countries most affected by landslide-related fatalities.Insight: Provides a clear visual understanding of where landslides occur most frequently and their human cost.",
+          "image": "/assets/projects/snapshots/Global Landslide Predictive Analytics/Screenshot 2025-12-20 233522.png"
+        },
+        {
+          "title": "Data Preprocessing & Feature Engineering",
+          "description": "Overview: Demonstrates the technical pipeline for preparing raw data for Machine Learning models.Technical Actions:Pipeline Design: Used ColumnTransformer with StandardScaler for numerical data and OneHotEncoder for categorical variables (like Landslide Trigger and Size).Handling Missing Values: Implemented robust cleaning strategies for null dates and coordinates to ensure dataset integrity.Insight: Shows proficiency in building automated preprocessing pipelines that prevent data leakage and handle categorical variety.",
+          "image": "/assets/projects/snapshots/Global Landslide Predictive Analytics/Screenshot 2025-12-20 233530.png"
+        },
+        {
+          "title": "Supervised Learning – Fatality Prediction",
+          "description": "Overview: Implementation of multiple Regression models to predict the number of fatalities based on environmental triggers and location.Models Evaluated: Compared performance across Linear Regression, Lasso, Decision Trees, Random Forest, and Gradient Boosting.Visualization: Includes a Decision Tree Regressor plot showing the logic path the model takes to arrive at a fatality prediction.Insight: Evaluates which algorithm best captures the non-linear relationship between landslide triggers (like \"Downpour\" or \"Monsoon\") and their impact.",
+          "image": "/assets/projects/snapshots/Global Landslide Predictive Analytics/Screenshot 2025-12-20 233538.png"
+        },
+        {
+          "title": "Unsupervised Learning & Anomaly Detection",
+          "description": "Overview: Utilizing clustering techniques to discover hidden patterns in landslide behavior without predefined labels.Algorithms Used:Clustering: Implemented K-Means, Agglomerative Clustering, and DBSCAN to group similar landslide events geographically and by scale.Outlier Detection: Used Isolation Forest to identify \"Anomalies\"—rare, extreme landslide events that deviate significantly from the norm.Insight: This dual approach helps in identifying typical disaster patterns versus unique, high-impact outlier events.",
+          "image": "/assets/projects/snapshots/Global Landslide Predictive Analytics/Screenshot 2025-12-20 233544.png"
+        },
+        {
+          "title": "Final Model Evaluation & Results Export",
+          "description": "Overview: A summary of model performance metrics ($R^2$ Score and Mean Squared Error) and the final processed output.Technical Deliverable: Exported a comprehensive CSV containing the original data merged with ML-generated cluster labels and anomaly flags.Metric Analysis: Benchmarking different regressors to determine the most accurate model for disaster impact forecasting.",
+          "image": "/assets/projects/snapshots/Global Landslide Predictive Analytics/Screenshot 2025-12-20 233557.png"
+        }
+      ],
+      "modalContent": "Engineered models (Random Forest, Gradient Boosting) to forecast landslide impacts while utilizing K-Means for spatial risk assessment. Processed NASA's Global Landslide Catalog to identify high-risk zones."
+    },
+    {
+      "id": "p6",
+      "title": "Expense Tracker (Console Based)",
+      "date": "2024",
+      "tags": [
+        "Java",
+        "File Handling",
+        "POM File"
+      ],
+      "accent": false,
+      "description": "A robust command-line interface application for tracking daily expenses and generating financial reports.",
+      "githubLink": "https://github.com/durgasaiprasad06/ExpenseTrackerPro/",
+      "demoLink": "",
+      "image": "/assets/projects/Expense Tracker (Console Based).png",
+      "snapshots": [
+        {
+          "title": "Project Architecture & Maven Build Configuration",
+          "description": "Overview: This section showcases the project's foundation using the Maven build tool for professional dependency management.\n\nTechnical Highlights:\n\nPOM Configuration: Managed project metadata and build lifecycle through the pom.xml file.\n\nModular Structure: Implemented a clean directory structure separating the Expense, User, and Category models from the core logic.\n\nInsight: Demonstrates proficiency in industry-standard Java development workflows and build automation.",
+          "image": "/assets/projects/snapshots/Expense Tracker (Console Based)/Screenshot 2026-03-23 001441.png"
+        },
+        {
+          "title": "Transaction Logic & Data Persistence",
+          "description": "Overview: The \"Engine\" of the application where financial records are processed and categorized.\n\nTechnical Highlights:\n\nCRUD Functionality: Implementation of core features to Add, View, and Delete daily expenses (Amount, Category, Date, Description).\n\nCategory Management: Logic to group expenses (e.g., Food, Travel, Rent) for better financial oversight.\n\nInsight: Highlights the ability to handle structured data and perform real-time calculations for total spending.",
+          "image": "/assets/projects/snapshots/Expense Tracker (Console Based)/Screenshot 2026-03-23 001455.png"
+        },
+        {
+          "title": "Interactive Command-Line Interface (CLI)",
+          "description": "Overview: A user-friendly console menu designed for quick and efficient data entry.\n\nKey Features:\n\nDynamic Menu: A numbered navigation system for easy access to all tracker features.\n\nInput Validation: Robust error handling using Scanner to prevent invalid data types from entering the financial records.\n\nInsight: Focuses on creating a clean user experience (UX) within a terminal-based environment.",
+          "image": "/assets/projects/snapshots/Expense Tracker (Console Based)/Screenshot 2026-03-23 001505.png"
+        },
+        {
+          "title": "Financial Summary & Reporting",
+          "description": "Overview: Live demonstration of the system generating a summary of the user's spending habits.\n\nAnalysis:\n\nBudget Overview: Displays the total amount spent across different categories in a clear, tabulated format.\n\nSearch & Filter: Allows users to retrieve specific transactions based on categories or dates.\n\nInsight: Confirms the system's reliability in maintaining accurate financial logs and providing actionable spending insights.",
+          "image": "/assets/projects/snapshots/Expense Tracker (Console Based)/Screenshot 2026-03-23 001521.png"
+        }
+      ],
+      "modalContent": "Implemented using Java with file handling for persistent data storage. Features categorization of expenses and monthly summary generation."
+    },
+    {
+      "id": "p7",
+      "title": "Student Management System (BST Integrated)",
+      "date": "2024",
+      "tags": [
+        "C++",
+        "DSA",
+        "System Design"
+      ],
+      "accent": false,
+      "description": "High-performance database system utilizing Binary Search Trees for optimized student record management.",
+      "githubLink": "https://github.com/durgasaiprasad06/Student-Database-Management-System/",
+      "demoLink": "",
+      "image": "/assets/projects/Student Management System (BST Integrated).png",
+      "snapshots": [
+        {
+          "title": "System Architecture & Data Structure Design",
+          "description": "Overview: This section showcases the core C++ header files and class structures that define the system.Technical Highlights: * Object-Oriented Design: Implemented a Student class and a BSTNode template to handle data encapsulation.Efficient Storage: Utilized a Binary Search Tree (BST) as the primary data structure to ensure $O(\\log n)$ average-case time complexity for search, insertion, and deletion operations.Insight: Demonstrates a strong understanding of memory management and efficient data retrieval techniques in C++.",
+          "image": "/assets/projects/snapshots/Student Management System (BST Integrated)/Screenshot 2026-03-23 003547.png"
+        },
+        {
+          "title": "Core Functionality & Menu Interface",
+          "description": "Overview: The console-based user interface that allows users to interact with the database in real-time.Key Features:CRUD Operations: Includes options to Add, Remove, Search, and Update student records using a unique Student ID.Tree Traversals: Implementation of In-order, Pre-order, and Post-order traversals to display records in sorted or hierarchical formats.Insight: Provides a user-friendly way to manage large sets of student data without direct database access.",
+          "image": "/assets/projects/snapshots/Student Management System (BST Integrated)/Screenshot 2026-03-23 003553.png"
+        },
+        {
+          "title": "Dynamic Data Manipulation (Insertion & Search)",
+          "description": "Overview: This screenshot shows the system successfully processing live inputs and retrieving specific records.Technical Performance: * Validation: Shows the system handling unique IDs and preventing duplicate entries within the tree.Search Efficiency: Displays how the BST quickly locates a specific student's details (Name, CGPA, Department) based on their ID.Insight: Highlights the practical application of algorithms to solve real-world data management problems.",
+          "image": "/assets/projects/snapshots/Student Management System (BST Integrated)/Screenshot 2026-03-23 003559.png"
+        },
+        {
+          "title": "System Robustness & Edge Case Handling",
+          "description": "Overview: Demonstrates the system's ability to handle record deletions and empty database scenarios.Analysis:Node Deletion: Shows the complex BST logic for removing nodes (handling cases with zero, one, or two children).Persistence: A preview of how data is formatted and prepared for potential file I/O operations.Insight: Proves that the code is \"production-ready\" by handling potential errors and complex tree restructuring gracefully.",
+          "image": "/assets/projects/snapshots/Student Management System (BST Integrated)/Screenshot 2026-03-23 003614.png"
+        }
+      ],
+      "modalContent": "Implemented a modular C++ architecture featuring insertion, deletion, and search operations on hierarchical data structures."
+    }
+  ],
+  "certifications": [
+    {
+      "id": "c1",
+      "title": "Introduction to Data Analysis using Microsoft Excel",
+      "issuer": "Coursera Project Network",
+      "date": "Sep 2025",
+      "link": "https://drive.google.com/file/d/11HzVu6pqA05aUzcYTQRLIYk9Ne1Fc6eD/",
+      "image": "/assets/certs/cert_7.png",
+      "logo": "/assets/logos/coursera.png",
+      "tag": "Coursera",
+      "modalContent": "This hands-on project focused on advanced data cleaning, pivot tables, and visualization techniques. I learned to transform raw datasets into meaningful business intelligence reports using Excel's powerful analytical tools."
+    },
+    {
+      "id": "c2",
+      "title": "ChatGPT-4 Prompt Engineering: ChatGPT, Generative AI & LLM",
+      "issuer": "Infosys Springboard",
+      "date": "Aug 2025",
+      "link": "https://drive.google.com/file/d/1BXvjEOQjDS3vvAYHLtUW5USaxWl3lQZj/",
+      "image": "/assets/certs/cert_3.png",
+      "logo": "/assets/logos/infosys.png",
+      "tag": "Infosys",
+      "modalContent": "Mastered advanced prompt engineering techniques, LLM orchestration, and generative AI workflows. Learned how to leverage AI for complex problem-solving, content generation, and code optimization."
+    },
+    {
+      "id": "c3",
+      "title": "Computational Theory: Language Principle & Finite Automata Theory",
+      "issuer": "Infosys Springboard",
+      "date": "Aug 2025",
+      "link": "https://drive.google.com/file/d/1CwhXrKYHd5j684bqA91eYZAjSuJ-HleR/",
+      "image": "/assets/certs/cert_8.png",
+      "logo": "/assets/logos/infosys.png",
+      "tag": "Infosys",
+      "modalContent": "Explored the foundations of computer science, including formal languages, automata, and complexity theory."
+    },
+    {
+      "id": "c4",
+      "title": "Build Generative AI Apps and Solutions with No-Code Tools",
+      "issuer": "Infosys Springboard",
+      "date": "Aug 2025",
+      "link": "https://drive.google.com/file/d/1cbf-CxtPVq5vk0-FvhaF51XsODMOeLn5/",
+      "image": "/assets/certs/cert_9.png",
+      "logo": "/assets/logos/infosys.png",
+      "tag": "Infosys",
+      "modalContent": "Learned to architect generative AI applications using low-code/no-code platforms. Explored LLM orchestration and prompt engineering."
+    },
+    {
+      "id": "c5",
+      "title": "Master Generative AI & Generative AI tools",
+      "issuer": "Infosys Springboard",
+      "date": "Aug 2025",
+      "link": "https://drive.google.com/file/d/1cPzb3rIxCmVbk5jPjvdnxRvOEyPzuYi3/",
+      "image": "/assets/certs/cert_10.png",
+      "logo": "/assets/logos/infosys.png",
+      "tag": "Infosys",
+      "modalContent": "Mastered the use of state-of-the-art Generative AI tools for diverse applications including automated content creation, architectural design analysis, and advanced data exploration."
+    },
+    {
+      "id": "c6",
+      "title": "Cloud Computing",
+      "issuer": "NPTEL (IIT Kharagpur)",
+      "date": "Apr 2025",
+      "link": "https://drive.google.com/file/d/1e7IiQzVyiEDzpdUpP6H-2W1RIUxteP6E/",
+      "image": "/assets/certs/cert_11.png",
+      "logo": "/assets/logos/nptel.png",
+      "tag": "NPTEL",
+      "modalContent": "Completed an intensive course on cloud infrastructure, distributed systems, and scalable cloud architectures. Focused on the core principles of virtualization, service-oriented architecture, and resource management."
+    },
+    {
+      "id": "c7",
+      "title": "Introduction to Git and GitHub",
+      "issuer": "Google (Coursera)",
+      "date": "Nov 2024",
+      "link": "https://drive.google.com/file/d/1wRAy4P4tzMD6wTKDYeVTOYqC8FI7bknk/",
+      "image": "/assets/certs/cert_2.png",
+      "logo": "/assets/logos/google.png",
+      "tag": "Google",
+      "modalContent": "Mastered version control fundamentals, branching strategies, and collaborative development using Git and GitHub."
+    },
+    {
+      "id": "c8",
+      "title": "TCP/IP and Advanced Topics",
+      "issuer": "University of Colorado System (Coursera)",
+      "date": "Nov 2024",
+      "link": "https://drive.google.com/file/d/1IHiHtlRdusINXUQ6qmBxaK-6Ho49fvxJ/",
+      "image": "/assets/certs/cert_4.png",
+      "logo": "/assets/logos/ucolorado.png",
+      "tag": "UC Colorado",
+      "modalContent": "Deep dive into network protocols, routing, and advanced TCP/IP configurations for scalable network environments."
+    },
+    {
+      "id": "c9",
+      "title": "Programming for Everybody (Getting Started with Python)",
+      "issuer": "University of Michigan (Coursera)",
+      "date": "Nov 2024",
+      "link": "https://drive.google.com/file/d/101FtdzXgz1QD6WEiogIX7Mh78fnEYVKp/",
+      "image": "/assets/certs/cert_6.png",
+      "logo": "/assets/logos/umich.png",
+      "tag": "U Michigan",
+      "modalContent": "Foundational programming course using Python, covering data structures, loops, and basic logic for data processing."
+    },
+    {
+      "id": "c10",
+      "title": "Peer-to-Peer Protocols and Local Area Networks",
+      "issuer": "University of Colorado System (Coursera)",
+      "date": "Oct 2024",
+      "link": "https://drive.google.com/file/d/1PQVQZoWVr2oj-QwZbXOymiAhcAfI_Kv-/",
+      "image": "/assets/certs/cert_5.png",
+      "logo": "/assets/logos/ucolorado.png",
+      "tag": "UC Colorado",
+      "modalContent": "Studied distributed systems architecture, P2P communication, and Local Area Network configurations."
+    },
+    {
+      "id": "c11",
+      "title": "Digital Systems: From Logic Gates to Processors",
+      "issuer": "Universitat Autònoma de Barcelona (Coursera)",
+      "date": "Sep 2024",
+      "link": "https://drive.google.com/file/d/11HzVu6pqA05aUzcYTQRLIYk9Ne1Fc6eD/",
+      "image": "/assets/certs/cert_1.png",
+      "logo": "/assets/logos/uab.png",
+      "tag": "UAB",
+      "modalContent": "Technical course on digital design, Boolean logic, and the architecture of modern processors."
+    },
+    {
+      "id": "c12",
+      "title": "The Bits and Bytes of Computer Networking",
+      "issuer": "Google (Coursera)",
+      "date": "Sep 2024",
+      "link": "https://drive.google.com/file/d/1PQ7opmpmRFUkxWnHX749OTG3ESiJK_RP/",
+      "image": "/assets/certs/cert_12.png",
+      "logo": "/assets/logos/google.png",
+      "tag": "Google",
+      "modalContent": "Deep dive into the physical layers of networking, network infrastructure, and real-world troubleshooting."
+    }
+  ],
+  "achievements": [
+    {
+      "id": "a1",
+      "title": "Top 12 Finalist | HackWithVertos",
+      "issuer": "Echo LPU",
+      "date": "Feb 2024",
+      "link": "https://drive.google.com/file/d/1y0W4JpogJWhZ77yQfXqhDr5tQ32YNJ5m/",
+      "image": "/assets/certs/cert_hackathon.png",
+      "description": "Secured a top-12 position among campus teams for developing a Hospital Management System prototype."
+    },
+    {
+      "id": "a2",
+      "title": "100+ Problems Solved | LeetCode",
+      "issuer": "LeetCode",
+      "date": "Since 2024",
+      "link": "https://leetcode.com/u/Durga_Sai_Prasad_Tunga/",
+      "description": "Consistently solving DSA problems on LeetCode, currently reaching 105+ solved problems to sharpen algorithmic thinking and coding proficiency."
+    }
+  ],
+  "hackathons": {
+    "summary": "Actively participating in data challenges and hackathons to solve real-world problems.",
+    "events": []
+  }
+}
