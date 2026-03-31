@@ -1,52 +1,35 @@
-# Portfolio: Data Insight & Analytics Console 📊📉✨
+# Hi, I'm Tunga Durga Sai Prasad 👋
+### Aspiring Data Analyst | Identifying Patterns & Predicting Outcomes with Precision
 
-Welcome to the professional portfolio of **Tunga Durga Sai Prasad**, better known as **Sai**. 🤛🤛
-
-I’m an aspiring Data Analyst currently pursuing my B.Tech in Computer Science and Engineering at LPU. This portfolio is my digital "Command Center" where I transform raw data into meaningful insights and architect predictive outcomes using a specialized stack of analytical tools.
-
-Link: https://tunga-durga-sai-prasad-portfolio.netlify.app/
-
-## ✨ Major Sections
-- **Data Portfolios**: showcasing real-world analytics projects using SQL, Python, and Power BI.
-- **Certifications**: Industry-recognized credentials from Microsoft, Google, Infosys, and NPTEL.
-- **Training & Internships**: Specialized training in C++/DSA and a Microsoft-backed Power BI internship.
-- **Achievements**: Recognition as a Top 12 Hackathon Finalist and consistent DSA progress on LeetCode.
-
-## 🛠️ My Tech Toolbox
-- **Logic & UI**: React.js, Vite, Framer Motion
-- **Data Analysis**: Python (Pandas, NumPy, Scikit-learn), MySQL
-- **Visualization**: Power BI, Tableau, Excel
-- **Protocols**: TCP/IP, Cloud Infrastructure concepts
-
-## ⚙️ How to activate the Contact Form (EmailJS)
-This portfolio uses **EmailJS** for the contact form. To make it work:
-
-1.  **Sign up** at [emailjs.com](https://www.emailjs.com/).
-2.  **Add a Service**: Connect your Gmail or Outlook.
-3.  **Create a Template**: Use the following field names in your template:
-    *   `{{name}}` (Sender's Name)
-    *   `{{email}}` (Sender's Email)
-    *   `{{subject}}` (Subject of inquiry)
-    *   `{{message}}` (The actual content)
-4.  **Configure `.env`**: Create a `.env` file in the root directory (based on `.env.example`) and add your keys:
-    ```env
-    VITE_EMAILJS_SERVICE_ID=your_service_id
-    VITE_EMAILJS_TEMPLATE_ID=your_template_id
-    VITE_EMAILJS_PUBLIC_KEY=your_public_key
-    ```
-5.  **Build & Deploy**: These variables are injected during the build process on Netlify.
-
-## 📂 Development
-```bash
-# Install dependencies
-npm install
-
-# Run dev server
-npm run dev
-
-# Build for production
-npm run build
-```
+I am a **Computer Science and Engineering student at Lovely Professional University**, dedicated to transforming complex datasets into clear, actionable insights. My focus is on building practical knowledge in data analytics and continuously evolving my technical toolkit to solve real-world business challenges.
 
 ---
-**Data is just numbers until you tell its story. Let's find the patterns together.** 📊🔥📈
+
+## 🚀 What I Do
+- **Data Exploration:** Uncovering hidden trends and patterns in "messy" data.
+- **Predictive Thinking:** Using analytical frameworks to forecast outcomes with precision.
+- **Visualization:** Crafting data stories that support data-driven decision-making.
+- **Continuous Learning:** Constantly updating my skills in Python, SQL, and modern BI tools.
+
+---
+
+## 🛠️ Technical Focus
+My work typically involves a mix of:
+* **Languages:** Data-centric programming and database management.
+* **Analysis:** Statistical modeling and data cleaning libraries.
+* **Visuals:** Interactive dashboards and storytelling platforms.
+
+---
+
+## ✨ Professional Mentorship
+My growth in this field has been significantly shaped by the incredible guidance and mentorship of **@[Tag Madam's Name]**. Her insights have been instrumental in helping me bridge the gap between academic theory and professional data application.
+
+---
+
+## 📫 Connect with Me
+- **Email:** [durgasaiprasad091@gmail.com](mailto:durgasaiprasad091@gmail.com)
+- **LinkedIn:** https://www.linkedin.com/in/durga-sai-prasad-tunga-5b6727293/
+- **Portfolio:** https://tunga-durga-sai-prasad-portfolio.netlify.app/
+
+---
+*“Always curious about how data can answer questions we didn’t even know to ask.”*
