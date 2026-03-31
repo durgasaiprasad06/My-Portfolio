@@ -21,11 +21,6 @@ My work typically involves a mix of:
 
 ---
 
-## ✨ Professional Mentorship
-My growth in this field has been significantly shaped by the incredible guidance and mentorship of **@[Tag Madam's Name]**. Her insights have been instrumental in helping me bridge the gap between academic theory and professional data application.
-
----
-
 ## 📫 Connect with Me
 - **Email:** [durgasaiprasad091@gmail.com](mailto:durgasaiprasad091@gmail.com)
 - **LinkedIn:** https://www.linkedin.com/in/durga-sai-prasad-tunga-5b6727293/
