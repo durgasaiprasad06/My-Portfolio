@@ -5,9 +5,6 @@ Welcome to the professional portfolio of **Tunga Durga Sai Prasad**, better know
 I’m an aspiring Data Analyst currently pursuing my B.Tech in Computer Science and Engineering at LPU. This portfolio is my digital "Command Center" where I transform raw data into meaningful insights and architect predictive outcomes using a specialized stack of analytical tools.
 
 Link: https://tunga-durga-sai-prasad-portfolio.netlify.app/
-## 🚀 See It In Action
-- **Live Site**: [sai-prasad-portfolio.netlify.app](https://sai-prasad-portfolio.netlify.app/)
-- **Source Code**: [GitHub Repository](https://github.com/durgasaiprasad06/Sai-Portfolio)
 
 ## ✨ Major Sections
 - **Data Portfolios**: showcasing real-world analytics projects using SQL, Python, and Power BI.
